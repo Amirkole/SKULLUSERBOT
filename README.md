@@ -43,7 +43,7 @@ class Development(Var):
 
 ### UniBorg Configuration
 
-
+The UniBorg Config is situated in `userbot/uniborgConfig.py`.
 
 **Heroku Configuration**
 Simply just leave the Config as it is.
